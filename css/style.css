@@ -6,18 +6,26 @@ body {
 /* header section here */
 .header-section{
     display: flex;
+    background: #E554731A;
+    padding:0 240px;
 }
 .header-title{
     color: #272727;
     font-size: 80px;
     font-weight: 800;
     text-align: left;
+    width: 708px;
+    padding-top: 197px;
+    padding-bottom: 32px;
 }
 .header-description{
     color: #27272799;
     font-size: 18px;
     font-weight: 400;
     text-align: left;
+    width: 634px;
+    padding-top: 0;
+    padding-bottom: 32px;
 }
 .primary-btn{
     color: rgb(255, 255, 255);
