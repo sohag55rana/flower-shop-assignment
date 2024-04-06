@@ -1,0 +1,31 @@
+body {
+    font-family: "Lato", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+/* header section here */
+.header-section{
+    display: flex;
+}
+.header-title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    text-align: left;
+}
+.header-description{
+    color: #27272799;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+}
+.primary-btn{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    border: 0;
+}
