@@ -2,21 +2,31 @@ body {
     font-family: "Lato", sans-serif;
     font-weight: 800;
     font-style: normal;
+    width: 1920px;
 }
 /* header section here */
+
 .header-section{
     display: flex;
     background: #E554731A;
-    padding:0 240px;
+    background-position: bottom right;
+    background-size: auto;
+    justify-content: space-between;
+    align-items: bottom right;
+    padding: 0 240px;
 }
+#header-column-1{
+    width: 708px;
+}
+
 .header-title{
     color: #272727;
     font-size: 80px;
     font-weight: 800;
     text-align: left;
     width: 708px;
-    padding-top: 197px;
-    padding-bottom: 32px;
+    margin-top: 150px;
+    margin-bottom: 32px;
 }
 .header-description{
     color: #27272799;
@@ -24,8 +34,8 @@ body {
     font-weight: 400;
     text-align: left;
     width: 634px;
-    padding-top: 0;
-    padding-bottom: 32px;
+    margin-top: 0;
+    margin-bottom: 32px;
 }
 .primary-btn{
     color: rgb(255, 255, 255);
@@ -36,4 +46,14 @@ body {
     background: #E55473;
     padding: 20px 43px;
     border: 0;
+    /* margin-bottom: 147px; */
+}
+.header-img{
+   
+    width: 635px;
+    height: 900px;
+    left: 1045px;
+    right: 240px;
+    padding-top: 100px;
+    margin-bottom: 4017px;
 }
