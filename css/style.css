@@ -278,3 +278,45 @@ span{
     background: rgb(229, 84, 115);
     border: 0;
 }
+/* buy section */
+.buy-container{
+    display: flex;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 0px 395px;
+}
+.buy-content{
+    margin-right: 186px;
+    width: 594px;
+
+}
+.buy-title{
+    color: rgb(39, 39, 39);
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 230px;
+    margin-bottom: 24px;
+
+
+}
+.buy_description{
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 32px;
+}
+.buy-btn{
+    border-radius: 8px;
+    background: rgb(229, 84, 115);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    padding: 20px 43px;
+    border: 0;
+    align-items: center;
+    margin: 0 160px 0;
+}
