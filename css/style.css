@@ -116,3 +116,165 @@ body {
     margin-top: 32px;
 
 }
+/* delivery-section */
+.delivery-container{
+    display: flex;
+    margin: 128px 240px;
+    padding: 86px 175px;
+    justify-content: space-between;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    text-align: center;
+}
+.delivery-img{
+        margin-bottom: 24px;
+
+}
+.delivery-description{
+    color: rgba(39, 39, 39, 0.8);
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 0;
+
+}
+/* offer section */
+.offer-container{
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    width: 1922px;
+    height: 620px;
+    display: flex;
+}
+#offer-column-space{
+    padding: 230px 0px 162px 392px;
+    width: 594px;
+    height: 228px;
+}
+.offer-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+span{
+    color: #E55473;
+}
+.offer-description{
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+
+}
+.offer-btn{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 8px;
+    border: 0;
+    background: rgb(229, 84, 115);
+    margin: 32px 231px 0 208px;
+    padding: 20px 13px;
+    width: 155px;
+    height: 64px;
+
+}
+.offer-img{
+    margin: 100px 420px 100px 186px;
+}
+/* insta section */
+.insta-title{
+    color: rgb(39, 39, 39);
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 128px;
+    margin-bottom: 0;
+}
+.insta-description{
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin: 24px 663px 48px;
+    width: 594px;
+    /* height: 60px; */
+
+}
+.insta-img{
+    margin: 0 235px;
+    justify-content: space-between;
+    
+}
+.insta-img-here1{
+    margin-right: 24px;
+    margin-left: 0;
+    width: 342px;
+}
+.insta-img-here2{
+    margin-right: 24px;
+    margin-left: 0;
+    width: 342px;
+}
+.insta-img-here3{
+    margin-right: 24px;
+    margin-left: 0;
+    width: 342px;
+}
+.insta-img-here4{
+    margin-right: 0;
+    margin-left: 0;
+    width: 342px;
+}
+/* deals section */
+.deals-item-here{
+    background-image: url("../Flower Asset/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    margin: 128px 240px;
+    width: 1440px;
+    height: 449px;
+
+}
+
+.deals-title{
+    color: rgb(39, 39, 39);
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    /* width: 373px; */
+    padding: 122px 500px 0px;
+}
+.deals-description{
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin: 16px;
+}
+.deals-input-item{
+    margin: 48px 250px 121px;
+}
+.deals-input{
+    color: rgba(39, 39, 39, 0.6);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    padding: 23px 513px 23px 22px;
+    margin-right: 16px;
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    border: 0;
+
+}
+.deals-btn{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 700;
+    text-align: left;
+    padding: 19px 31px;
+    border-radius: 8px;
+    background: rgb(229, 84, 115);
+    border: 0;
+}
