@@ -204,29 +204,30 @@ span{
 
 }
 .insta-img{
-    margin: 0 235px;
+    margin-left: 240px;
     justify-content: space-between;
     
 }
 .insta-img-here1{
+    
     margin-right: 24px;
     margin-left: 0;
-    width: 342px;
+    /* width: 342px; */
 }
 .insta-img-here2{
     margin-right: 24px;
     margin-left: 0;
-    width: 342px;
+    /* width: 342px; */
 }
 .insta-img-here3{
     margin-right: 24px;
     margin-left: 0;
-    width: 342px;
+    /* width: 342px; */
 }
 .insta-img-here4{
     margin-right: 0;
     margin-left: 0;
-    width: 342px;
+    /* width: 342px; */
 }
 /* deals section */
 .deals-item-here{
@@ -319,4 +320,37 @@ span{
     border: 0;
     align-items: center;
     margin: 0 160px 0;
+}
+/* footer section */
+.footer-title{
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 24px;
+}
+footer{
+    background: rgb(17, 16, 16);
+    padding: 128px 649px;
+    margin-top: 128px;
+}
+.span-flower{
+    color: #E55473;
+}
+.span-shop{
+    color: #FFFFFF;
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 32px;
+}
+.footer-copyright{
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 0;
 }
